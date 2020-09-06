@@ -10,6 +10,6 @@ A Pyside2 GUI application that is used to plot a function in a predefined range 
 ### usage
 please clone this repository first and run the following command   
 `$ python3 main.py`  
-a window will open like the follwing ![Function Plotter](image.png)  
-now, yu should enter the equation and min & max value and press the plot button    
+a window will open like the following ![Function Plotter](image.png)  
+now, you should enter the equation and min & max value and press the plot button    
 the function figure should appear in the right side of the window or a dialoge box should popup if you made a mistake
